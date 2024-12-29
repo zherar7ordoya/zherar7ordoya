@@ -1,27 +1,55 @@
-# Hola, soy Gerardo Tordoya 👋
+# ¡Hola, soy Gerardo Tordoya! 👋
 
-Bienvenidos a mi espacio en GitHub, donde la curiosidad, la lógica y la creatividad se combinan para crear soluciones tecnológicas innovadoras. 🚀
-
-## 🌟 Sobre mí
-Soy un desarrollador apasionado por la tecnología y el diseño de software. Me gusta trabajar en proyectos que desafían mi capacidad de resolver problemas y aprender constantemente. Además, valoro profundamente la colaboración, ya que las mejores ideas nacen cuando las mentes se unen. 💡
-
-- 🔭 Actualmente estoy trabajando en [Aura](https://github.com/zherar7ordoya/Aura), un proyecto enfocado en [describir objetivo del proyecto].
-- 🌱 Me encuentro explorando la arquitectura MVC y mejorando mi comprensión sobre la gestión de usuarios con roles y permisos.
-- 💬 Siéntete libre de preguntarme sobre desarrollo web, arquitectura de software o cómo modularizar proyectos para mayor eficiencia.
-- 🎯 Mis intereses incluyen sistemas ligeros y serverless, soluciones NoSQL, y siempre busco la simplicidad como filosofía de diseño.
-- 📫 Puedes contactarme en: [tu correo o redes sociales].
-
-## 🛠️ Habilidades
-- **Lenguajes:** JavaScript, HTML, CSS  
-- **Bases de datos:** SQLite, LiteDB  
-- **Intereses:** Arquitectura MVC, optimización de proyectos web y diseño centrado en el usuario.
-
-## 💡 Filosofía de trabajo
-Creo que la tecnología no solo debe resolver problemas, sino hacerlo de forma elegante y sencilla. Me gusta explorar ideas innovadoras y construir soluciones que no solo funcionen, sino que también inspiren.
-
-## 🌟 Un dato curioso
-Siempre busco combinar mi amor por la lógica con un enfoque humano. ¡Para mí, la tecnología y la empatía van de la mano! ❤️
+Bienvenidos a mi espacio en GitHub, donde combino lógica, creatividad y pasión por la tecnología para crear soluciones innovadoras. 🚀
 
 ---
 
-Gracias por visitar mi perfil. ¡Espero que encuentres algo aquí que te inspire o te motive a colaborar! 😊
+## 🌟 Sobre mí
+
+Soy Analista Programador recientemente graduado, con experiencia previa como consultor en la facturación de servicios publicitarios, actuando como enlace entre áreas contables y equipos de desarrollo. Durante este tiempo, implementé soluciones tecnológicas que optimizaron procesos operativos, incluyendo herramientas automatizadas en Excel VBA.
+
+Actualmente, estoy en un proceso continuo de actualización, integrando conocimientos modernos en tecnologías web, arquitectura de software y programación orientada a objetos.
+
+## 🛠️ Habilidades técnicas
+
+### Lenguajes de programación:
+- **C# (Intermedio/Avanzado):** Experiencia destacada en proyectos académicos como mi TFC, evaluado con la máxima calificación (10).
+- **Python (Intermedio):** Aplicado en proyectos modulares y orientados a objetos.
+- **HTML, CSS, JavaScript:** Familiaridad previa, con interés en tendencias modernas.
+- **Assembler y C (Básico):** Bases adquiridas en proyectos introductorios.
+
+### Persistencia de datos:
+- **XML (Intermedio):** Eje central en el desarrollo de mi TFC.
+- **SQL Server (Básico):** Experiencia con consultas básicas y procedimientos almacenados.
+
+### Frameworks y herramientas:
+- React, Node.js (Introducción en FreeCodeCamp).
+- Git y GitHub (colaboración y control de versiones).
+
+### Metodologías:
+- **SCRUM:** Adaptación para proyectos unipersonales y en equipo.
+
+### Habilidades blandas:
+- **Comunicación efectiva:** Enlace entre equipos multidisciplinarios.
+- **Resolución de problemas:** Prioridad en soluciones simples y sostenibles.
+- **Trabajo en equipo:** Colaboración eficaz para alcanzar metas comunes.
+
+## 📚 Educación
+
+- **Analista Programador**  
+  Universidad Abierta Interamericana (2024)  
+  - TFC: Sistema de Información para una empresa de mudanzas.  
+  - Repositorio: [github.com/zherar7ordoya/TFC](https://github.com/zherar7ordoya/TFC)
+
+- **Full Stack Developer**  
+  FreeCodeCamp (2020)  
+  - Certificación: [freecodecamp.org/certification/zherar7ordoya/full-stack](https://freecodecamp.org/certification/zherar7ordoya/full-stack)  
+  - Proyectos: [freecodecamp.org/zherar7ordoya](https://freecodecamp.org/zherar7ordoya)
+
+## ✨ Filosofía y pasión
+
+Mi especialidad es el desarrollo de software como un proceso integral, desde la elicitación de requisitos hasta la implementación final. Creo en la simplicidad como base de soluciones sostenibles y efectivas, siempre priorizando resultados funcionales con alto impacto.
+
+---
+
+Gracias por visitar mi perfil. Si te interesa colaborar o tienes alguna idea que discutir, ¡estaré encantado de hablar contigo! 😊
