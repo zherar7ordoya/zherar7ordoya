@@ -8,8 +8,34 @@ Bienvenidos a mi espacio en GitHub, donde combino lógica, creatividad y pasión
 
 Soy Analista Programador recientemente graduado, con experiencia previa como consultor en la facturación de servicios publicitarios, actuando como enlace entre áreas contables y equipos de desarrollo. Durante este tiempo, implementé soluciones tecnológicas que optimizaron procesos operativos, incluyendo herramientas automatizadas en Excel VBA.
 
+Mi enfoque no se limita a lo que ya conozco. Siempre estoy explorando nuevas herramientas, técnicas y metodologías que puedan convertirse en las soluciones ideales cuando el momento lo requiera. Creo que la clave para la innovación está en la curiosidad constante y en estar preparado para cualquier desafío.  
+
 Actualmente, estoy en un proceso continuo de actualización, integrando conocimientos modernos en tecnologías web, arquitectura de software y programación orientada a objetos.
 
+---
+
+## 🔭 Actualmente...
+
+- 🔭 **Trabajando en:** Proyectos pequeños, de auto-aprendizaje.  
+- 🌱 **Explorando:** La arquitecturas MVC y de microservicios.  
+- 🎯 **Interesado en:** Sistemas ligeros y serverless relacionales (SQLite) y NoSQL (LiteDB), diseño modular y la simplicidad como filosofía de desarrollo.  
+
+Siempre busco aprender y experimentar con nuevas ideas, probando tecnologías emergentes y evaluando cómo podrían encajar en futuros proyectos.
+
+---
+
+## 💬 ¿De qué podemos hablar?
+
+Si tienes curiosidad o necesitas ideas sobre:
+- Desarrollo de software con un enfoque modular y eficiente.
+- Arquitectura de software y diseño centrado en el usuario.
+- Diseño de soluciones adaptables.
+
+¡No dudes en escribirme! 😊  
+
+📫 **Contacto:** gerardo.tordoya@outlook.com
+
+---
 ## 🛠️ Habilidades técnicas
 
 ### Lenguajes de programación:
