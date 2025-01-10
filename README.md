@@ -34,7 +34,7 @@ If you're curious or need ideas about:
 
 Feel free to reach out! 😊
 
-📫 **Contact:** gerardo.tordoya@outlook.com
+📫 **Contact:** Gerardo.Tordoya@outlook.com
 
 ---
 
