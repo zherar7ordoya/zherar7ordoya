@@ -1,4 +1,4 @@
-#  Ejercicios habituales sobre estructuras de datos en entrevistas técnicas generales:
+#  Ejercicios habituales sobre estructuras de datos en entrevistas técnicas:
 
 ## Arrays:
 
