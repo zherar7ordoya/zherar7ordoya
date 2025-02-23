@@ -1,4 +1,3 @@
-
 using System;
 using Android.App;
 using Android.content;
@@ -7,9 +6,11 @@ namespace Controls
 {
     /// <summary>
     /// An equivalent of the much loved windows MessageBox.
-    // </summary>
+    /// </summary>
     internal class MessageBox
     {
+        const string TAG = "MessageBox";
+
         #region Enums
 
         /// <summary>
