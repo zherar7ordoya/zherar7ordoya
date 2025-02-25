@@ -1,0 +1,42 @@
+{
+	"name": "tranquility-base",
+	"displayName": "Tranquility Base",
+	"description": "Dark & Light themes, easy on the eyes",
+	"version": "2.0.7",
+	"publisher": "mike-flanigan",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/76784/tranquility-base.git"
+	},
+	"license": "GNU General Public License v3.0",
+	"icon": "icon.png",
+	"keywords": [
+		"dark",
+		"light",
+		"medium contrast",
+		"mid contrast",
+		"low contrast",
+		"easy on eyes",
+		"eye strain"
+	],
+	"engines": {
+		"vscode": "^1.21.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Tranquility Base Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/tranquility-base-dark-color-theme.json"
+			},
+			{
+				"label": "Tranquility Base Light",
+				"uiTheme": "vs",
+				"path": "./themes/tranquility-base-light-color-theme.json"
+			}
+		]
+	}
+}
