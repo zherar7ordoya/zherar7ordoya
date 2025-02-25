@@ -75,3 +75,17 @@ namespace Controls
         { }
     }
 }
+
+/**
+ * clase: green
+ * enum:  purple
+ * method: 
+ * comentario: olive
+ * xml doc text: olive
+ */
+
+// Comentario
+
+/// <summary>
+/// Comentario XML
+/// </summary>
