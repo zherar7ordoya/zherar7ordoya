@@ -1,90 +1,53 @@
-# Hi, I'm Gerardo Tordoya! 👋
-
-Welcome to my GitHub space, where I combine logic, creativity, and a passion for technology to create innovative solutions. 🚀
-
----
-
-## 🌟 About Me
-
-I'm a **recently graduated Analyst Programmer**, with previous experience as a consultant in billing for advertising services, acting as a liaison between accounting departments and development teams. During this time, I implemented technological solutions that optimized operational processes, including automated tools in Excel VBA.
-
-My development approach is focused on robust and sustainable solutions. Through my training in **C#** and **.NET**, I have specialized in creating solid and scalable applications, avoiding the temptation to follow technological trends that do not provide the same stability. My experience with web technologies and emerging tools, initially gained through **freeCodeCamp**, made me realize that a more structured and in-depth approach, like the one **C#** offers, is what truly ensures success in professional software development.
-
-Currently, I'm in a continuous process of updating my skills, integrating modern technologies such as **ASP.NET** and **MAUI**, while reinforcing my knowledge in object-oriented software architecture design.
+# GERARDO TORDOYA  
+**Software Analyst and Developer**  
+- **Location:** Argentina  
+- **Email:** gerardo.tordoya@outlook.com  
+- **Telegram:** [t.me/GerardoTordoya](https://t.me/GerardoTordoya)
 
 ---
 
-## 🔭 Currently...
+## Current Position  
+**Editora S.A. – El Tribuno de Jujuy**  
+*Billing of medium-complexity advertising services*  
 
-- 🔭 **Working on:** Small self-learning projects.
-- 🌱 **Exploring:** MVC and microservices architectures.
-- 🎯 **Interested in:** Lightweight and serverless systems with persistence in **SQLite** and **LiteDB**, modular design, and simplicity as a development philosophy.
-
-My focus is always on finding efficient and scalable solutions, evaluating emerging technologies with a long-term mindset.
-
----
-
-## 💬 What can we talk about?
-
-If you're curious or need ideas about:
-
-- Software development with a modular and sustainable approach.
-- Software architecture and the design of robust systems.
-- Implementation of adaptable and scalable solutions.
-
-Feel free to reach out! 😊
-
-📫 **Contact:** Gerardo.Tordoya@outlook.com
+- Functional liaison between accounting departments and IT solutions.  
+- Development of automated tools in Excel VBA to optimize operational and administrative processes.  
+- Internal technical support for data processing tasks.  
+- User assistance and coordination of technical requirements with other areas.
 
 ---
 
-## 🛠️ Technical Skills
+## Technological Path  
 
-### Programming Languages:
-- **C# (Intermediate/Advanced):** Significant experience in academic projects, such as my Final Thesis (TFC), graded with the highest score (10). My firm commitment to C# is based on its robustness and versatility for professional, sustainable software projects.
-- **Python (Intermediate):** Applied in modular and object-oriented projects.
-- **HTML, CSS, JavaScript:** Previous familiarity, with a keen interest in staying updated on modern trends.
-- **Assembler and C (Basic):** Foundations gained in introductory projects.
-
-### Data Persistence:
-- **XML (Intermediate):** Central to the development of my TFC.
-- **SQL Server (Basic):** Experience with basic queries and stored procedures.
-
-### Frameworks and Tools:
-- **React, Node.js (Introduction via FreeCodeCamp):** While I explored these technologies, I found that **C# and .NET** offer a more solid and scalable structure for professional application development.
-- **Git and GitHub:** Collaboration and version control.
-
-### Methodologies:
-- **SCRUM:** Adapted for both solo and team projects.
-
-### Languages:
-- **English:** Advanced level (previously fluent, currently in the process of updating due to lack of practice).
-
-### Soft Skills:
-- **Effective Communication:** Liaison between multidisciplinary teams.
-- **Problem Solving:** Focus on simple, efficient, and sustainable solutions.
-- **Teamwork:** Effective collaboration to achieve common goals.
+- **2000** – Began studies at UNJu (APU program), initial training in C++.  
+- **2002** – Relocated to Córdoba for professional and academic reasons (English Translation studies); university path paused.  
+- **2010** – Resumed programming in Jujuy, focusing on VBA (Excel/Access) due to work demands.  
+- **2016** – First approach to web development through private courses: PHP, jQuery, AJAX, HTML, CSS, plain JS.  
+- **2018** – Self-taught training via FreeCodeCamp and other resources: LAMP, Django, Node, serverless, React, and various libraries (D3, etc.).  
+- **2022** – Intense academic phase: desktop software development in C#, with practical experience in SQL Server, XML, and other languages like Assembly, C, Python.  
+- **2024 – present** – Updating skills to align with modern .NET-based web stack: ASP.NET Core, EF Core, Blazor, and exploration of clean and decoupled architectures.
 
 ---
 
-## 📚 Education
+## Highlighted Projects  
 
-- **Analyst Programmer**  
-  Universidad Abierta Interamericana (2024)  
-  - TFC: Information System for a Moving Company.  
-  - Repository: [github.com/zherar7ordoya/TFC](https://github.com/zherar7ordoya/TFC)
+- **Excel Process Automation (VBA)**  
+  Project still under maintenance.  
+  [Repository](https://github.com/zherar7ordoya/MSExcel)  
 
-- **Full Stack Developer**  
-  FreeCodeCamp (2020)  
-  - Certification: [freecodecamp.org/certification/zherar7ordoya/full-stack](https://freecodecamp.org/certification/zherar7ordoya/full-stack)  
-  - Projects: [freecodecamp.org/zherar7ordoya](https://freecodecamp.org/zherar7ordoya)
+- **Final Degree Project (TFC)**  
+  Information system for a moving company.  
+  Research and methodology-oriented work: object-oriented analysis and design, simplified RUP methodology.  
+  [Repository](https://github.com/zherar7ordoya/TFC)  
 
----
-
-## ✨ Philosophy and Passion
-
-My specialty is software development as an integral process, from requirements elicitation to final implementation. I believe in simplicity as the foundation for sustainable and effective solutions, always prioritizing functional results with high impact.
+- **Experimental Application – Clean Architecture**  
+  Exploratory project on adaptability of Clean Architecture to different persistence mechanisms (XML, JSON, LiteDB, SQLite).  
+  [Repository](https://github.com/zherar7ordoya/CarAssignment)
 
 ---
 
-Thank you for visiting my profile. If you're interested in collaborating or have an idea to discuss, I'd be happy to chat with you! 😊
+## Academic Background  
+
+- **University Degree in Software Analysis and Development** – UAI (Universidad Abierta Interamericana)  
+- **Overall GPA:** 9+  
+- **Final project:** Scored 10, with a strong academic research component integrating theory and practical development.
