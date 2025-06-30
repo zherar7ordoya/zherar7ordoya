@@ -73,7 +73,7 @@
 		"titleBar.activeForeground": "#ffffff",
 		"titleBar.border": "#333333",
 		"titleBar.inactiveBackground": "#333333",
-		"titleBar.inactiveForeground": "#ffffff",
+		"titleBar.inactiveForeground": "#ffffff"
 	},
 	"tokenColors": [
 		{
@@ -82,7 +82,7 @@
 				"source.groovy.embedded"
 			],
 			"settings": {
-				"foreground": "#000000ff",
+				"foreground": "#000000ff"
 			}
 		},
 		{
@@ -809,7 +809,7 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"foreground": "#bd4b00",
-				"fontStyle": "bold",
+				"fontStyle": "bold"
 			}
 		},
 		{

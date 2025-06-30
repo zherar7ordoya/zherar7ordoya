@@ -76,7 +76,7 @@
 		"tab.border": "#00000022",
 		"tab.inactiveBackground": "#d8d8e0",
 		"titleBar.activeBackground": "#d8d8e0",
-		"titleBar.inactiveBackground": "#d8d8e0",
+		"titleBar.inactiveBackground": "#d8d8e0"
 	},
 	"tokenColors": [
 		{
@@ -491,5 +491,5 @@
 			}
 		}
 	],
-	"semanticHighlighting": true,
+	"semanticHighlighting": true
 }
