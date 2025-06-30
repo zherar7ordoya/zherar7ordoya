@@ -1,0 +1,21 @@
+{
+  "name": "complex-lighting-conditions",
+  "displayName": "CLC",
+  "description": "Gray Theme for Complex Lighting Conditions",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CLC Gray Theme",
+        "uiTheme": "vs",
+        "path": "./themes/CLC Gray Theme-color-theme.json"
+      }
+    ]
+  }
+}
