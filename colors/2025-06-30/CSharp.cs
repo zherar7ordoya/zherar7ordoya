@@ -7,9 +7,16 @@ namespace Controls
     /// <summary>
     /// An equivalent of the much loved windows MessageBox.
     /// </summary>
-    internal class MessageBox
+    internal class CSharp : IDisposable
     {
         const string TAG = "MessageBox";
+        IEnumerable<string> _buttons;
+
+        public void Dispose()
+        {
+            // Nothing to dispose.
+            Console.WriteLine($"{TAG}: Dispose called.");
+        }
 
         #region Enums
 
