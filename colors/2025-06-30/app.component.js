@@ -1,22 +1,22 @@
 "use strict";
-var __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {
+var __createBinding = (this && this.__createBinding) || (Object.create ? (function (o, m, k, k2) {
     if (k2 === undefined) k2 = k;
     var desc = Object.getOwnPropertyDescriptor(m, k);
     if (!desc || ("get" in desc ? !m.__esModule : desc.writable || desc.configurable)) {
-      desc = { enumerable: true, get: function() { return m[k]; } };
+        desc = { enumerable: true, get: function () { return m[k]; } };
     }
     Object.defineProperty(o, k2, desc);
-}) : (function(o, m, k, k2) {
+}) : (function (o, m, k, k2) {
     if (k2 === undefined) k2 = k;
     o[k2] = m[k];
 }));
-var __setModuleDefault = (this && this.__setModuleDefault) || (Object.create ? (function(o, v) {
+var __setModuleDefault = (this && this.__setModuleDefault) || (Object.create ? (function (o, v) {
     Object.defineProperty(o, "default", { enumerable: true, value: v });
-}) : function(o, v) {
+}) : function (o, v) {
     o["default"] = v;
 });
 var __importStar = (this && this.__importStar) || (function () {
-    var ownKeys = function(o) {
+    var ownKeys = function (o) {
         ownKeys = Object.getOwnPropertyNames || function (o) {
             var ar = [];
             for (var k in o) if (Object.prototype.hasOwnProperty.call(o, k)) ar[ar.length] = k;
@@ -149,11 +149,11 @@ function divide(x, y) {
 // Función que aplica un conjunto de funciones binarias (de dos argumentos) a un conjunto de pares de valores,
 // devolviendo un arreglo con los resultados. Esta es la parte más representativa del enfoque funcional:
 function applyFunc(funcs, // Un array de funciones que toman dos números y devuelven un número
-values // Un array de pares de números (tuplas de dos elementos)
+    values // Un array de pares de números (tuplas de dos elementos)
 ) {
     const results = []; // Aquí se irán guardando los resultados
     for (let i = 0; i < funcs.length; i++) // Se itera sobre las funciones
-     {
+    {
         const args = values[i]; // Se toma el par de valores correspondiente
         const result = funcs[i](args[0], args[1]); // Se invoca la función con ese par
         results.push(result); // Se guarda el resultado

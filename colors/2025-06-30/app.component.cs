@@ -12,6 +12,8 @@ namespace Controls
         const string TAG = "MessageBox";
         IEnumerable<string> _buttons;
 
+        CSharp csharp = new CSharp();
+
         public void Dispose()
         {
             // Nothing to dispose.
