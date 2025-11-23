@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**zherar7ordoya/zherar7ordoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## IMDB new-noir
 
-Here are some ideas to get you started:
+- 🔭 Adapt React Task App
+- 🌱 Decide: React, Vite, NextJS?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Dilemma
+
+- 👯 Decide: React, Vite, NextJS. other?
+- 🤔 Include ulterior developments after Axelrod Tournament
+- 💬 Evaluate: ~~Axelrod-Python repository~~
+- 📫 Evaluate: [Evolution of Trust](https://github.com/ncase/trust/)
+
+# Carbon One
+
+- 😄 Update current development
+- ⚡ Tweak those little things...
