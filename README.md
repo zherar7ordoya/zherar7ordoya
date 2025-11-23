@@ -1,11 +1,11 @@
-# Hi there 👋
+***Hi there 👋***
 
-## IMDB new-noir
+# IMDB new-noir
 
 - 🔭 Adapt React Task App
 - 🌱 Decide: React, Vite, NextJS?
 
-## Dilemma
+# Dilemma
 
 - 👯 Decide: React, Vite, NextJS. other?
 - 🤔 Include ulterior developments after Axelrod Tournament
